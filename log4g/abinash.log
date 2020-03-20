@@ -1,0 +1,50 @@
+[main] INFO  com.capgemini.log4g.log4g.App  - i am info
+[main] DEBUG com.capgemini.log4g.log4g.App  - i am debug
+[main] WARN  com.capgemini.log4g.log4g.App  - i am warn
+[main] ERROR com.capgemini.log4g.log4g.App  - i am error
+[main] FATAL com.capgemini.log4g.log4g.App  - i am fatal
+[main] INFO  com.capgemini.log4g.log4g.App  - i am info
+[main] DEBUG com.capgemini.log4g.log4g.App  - i am debug
+[main] WARN  com.capgemini.log4g.log4g.App  - i am warn
+[main] ERROR com.capgemini.log4g.log4g.App  - i am error
+[main] FATAL com.capgemini.log4g.log4g.App  - i am fatal
+[main] INFO  com.capgemini.log4g.log4g.App  - i am info
+[main] DEBUG com.capgemini.log4g.log4g.App  - i am debug
+[main] WARN  com.capgemini.log4g.log4g.App  - i am warn
+[main] ERROR com.capgemini.log4g.log4g.App  - i am error
+[main] FATAL com.capgemini.log4g.log4g.App  - i am fatal
+[main] INFO  com.capgemini.log4g.log4g.App  - i am info
+[main] DEBUG com.capgemini.log4g.log4g.App  - i am debug
+[main] WARN  com.capgemini.log4g.log4g.App  - i am warn
+[main] ERROR com.capgemini.log4g.log4g.App  - i am error
+[main] FATAL com.capgemini.log4g.log4g.App  - i am fatal
+[main] DEBUG com.capgemini.log4g.log4g.InsertData  - i am abinash
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter UserName
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter Password
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter UserName
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter Password
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Welcome Admin.....!!
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - From here you can manage all of core Internet Banking
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - setting.you can add/manage customers,view their 
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - transcations,edit their details and even delete them.you
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - can also post news on the website
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - please keep in mind that with big power comes big
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - responsibility.Therefore please do not misuse youe admin
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - control to create trouble
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter First Name
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter Last Name
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter Gender 
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter Date of Birth
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter Adhar Number
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter UserName
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Enter Password
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - Welcome Admin.....!!
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - From here you can manage all of core Internet Banking
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - setting.you can add/manage customers,view their 
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - transcations,edit their details and even delete them.you
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - can also post news on the website
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - please keep in mind that with big power comes big
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - responsibility.Therefore please do not misuse youe admin
+[main] INFO  com.capgemini.bankingproject.DetailsValidations  - control to create trouble
+[main] DEBUG com.capgemini.log4g.log4g.InsertData  - i am abinash
+[main] DEBUG com.capgemini.log4g.log4g.InsertData  - i am abinash
