@@ -1,0 +1,59 @@
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Login Successful...
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Invalid Credentials!!!
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Invalid Credentials!!!
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Invalid Credentials!!!
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Invalid Credentials!!!
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Invalid Credentials!!!
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Invalid Credentials!!!
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Login Successful...
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Gender=male, Dob=17/06/1997, AddharNo=0.0, EmailId=swainabinash97@gmail.com, PhnNo=9937872343, Address=null, BankBranch=bbsr, AccountNo=123456.0, OpeningBalance=3000, Pin=2217, UserName=abinash, Password=abinash@2
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Gender=male, Dob=17/06/1997, AddharNo=0.0, EmailId=swainabinash97@gmail.com, PhnNo=9937872343, Address=null, BankBranch=bbsr, AccountNo=123456.0, OpeningBalance=3000, Pin=2217, UserName=abinash, Password=abinash@2
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Gender=male, Dob=17/06/1997, AddharNo=0.0, EmailId=swainabinash97@gmail.com, PhnNo=9937872343, Address=null, BankBranch=bbsr, AccountNo=123456.0, OpeningBalance=3000, Pin=2217, UserName=abinash, Password=abinash@2
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - 
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Login Successful...
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - 
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - []
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Gender=male, Dob=17/06/1997, AddharNo=0.0, EmailId=swainabinash97@gmail.com, PhnNo=9937872343, Address=null, BankBranch=bbsr, AccountNo=123456.0, OpeningBalance=3000, Pin=2217, UserName=abinash, Password=abinash@2
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - [Gender=male, Dob=17/06/1997, AddharNo=0.0, EmailId=swainabinash97@gmail.com, PhnNo=9937872343, Address=null, BankBranch=bbsr, AccountNo=123456.0, OpeningBalance=3000, Pin=2217, UserName=abinash, Password=abinash@2]
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Gender=male, Dob=17/06/1997, AddharNo=0.0, EmailId=swainabinash97@gmail.com, PhnNo=9937872343, Address=null, BankBranch=bbsr, AccountNo=123456.0, OpeningBalance=3000, Pin=2217, UserName=abinash, Password=abinash@2
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Gender=male, Dob=17/06/1997, AddharNo=0.0, EmailId=swainabinash97@gmail.com, PhnNo=9937872343, Address=null, BankBranch=bbsr, AccountNo=123456.0, OpeningBalance=3000, Pin=2217, UserName=abinash, Password=abinash@2
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Invalid Credentials!!!
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter password
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Invalid Credentials!!!
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter UserName
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter account no :-
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Gender=male, Dob=17/06/1997, AddharNo=0.0, EmailId=swainabinash97@gmail.com, PhnNo=9937872343, Address=null, BankBranch=bbsr, AccountNo=123456.0, OpeningBalance=3000, Pin=2217, UserName=abinash, Password=abinash@2
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - enter first name
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - enter last name
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - enter account number
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - enter email id
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - enter account number
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - successtrue
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter account no :-
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter Numbers Only!!!
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter account no :-
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter Numbers Only!!!
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Enter account no :-
+[main] INFO  com.capegimini.bankingproject.bankingproject.controller.CustomerController  - Gender=male, Dob=17/06/1997, AddharNo=0.0, EmailId=swainabinash97@gmail.com, PhnNo=9937872343, Address=null, BankBranch=bbsr, AccountNo=123456.0, OpeningBalance=3000, Pin=2217, UserName=abinash, Password=abinash@2
